@@ -1,0 +1,563 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="/resources/plugins/font-awesome-6.0.0/css/brands.min.css">
+<link rel="stylesheet" href="/resources/plugins/font-awesome-6.0.0/css/solid.min.css">
+<link rel="stylesheet" href="/resources/plugins/font-awesome-6.0.0/css/fontawesome.min.css">
+<link rel="stylesheet" href="/resources/plugins/alertify/alertify.min.css">
+<link rel="stylesheet" href="/resources/plugins/datatables/datatables.min.css">
+<link rel="stylesheet" href="/resources/css/T4/desktop/colorlko888.css?version=2.0.50">
+<script src="/resources/plugins/jquery/jquery-3.6.0.min.js"></script>
+<script src="/resources/plugins/cookie/jquery.cookie.js"></script>
+<script src="/resources/plugins/alertify/alertify.min.js"></script>
+<script src="/resources/plugins/datatables/datatables.min.js"></script>
+<script src="/resources/plugins/laydate/laydate.min.js"></script>
+<script src="/resources/plugins/qrCode/qrcode.js"></script>
+<script src="/resources/plugins/lightslider-1.1.3/vendor/jquery.easing.1.3.js"></script>
+<script src="/resources/plugins/lightslider-1.1.3/js/jquery.lightslider.js"></script>
+<script src="/resources/plugins/countUp-2.0.7/dist/countUp.min.js"></script>
+<script src="/resources/js/common/popper.min.js"></script>
+<script src="/resources/js/common/bootstrap.min.js"></script>
+<script src="/resources/js/common/jquery.mixitup.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sharer.js@latest/sharer.min.js"></script>
+  <div class="d-none d-none-h" id="provMainList">
+<div class="prov-" data-provcode="SADS" data-provcat="CASINO">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/CASINO/provider_SADS.png?v=20241004051741">
+<input type="hidden" class="provName" value="SA GAMING">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoSADSplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កាស៊ីណូ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="AWCS" data-provcat="CASINO">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/CASINO/provider_AWCS.png?v=20241004051741">
+<input type="hidden" class="provName" value="SEXY BACCARAT">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoAWCSplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កាស៊ីណូ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="DGD" data-provcat="CASINO">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/CASINO/provider_DGD.png?v=20241004051741">
+<input type="hidden" class="provName" value="DREAM GAMING">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoDGDplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កាស៊ីណូ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="MGD" data-provcat="CASINO">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/CASINO/provider_MGD.png?v=20241004051741">
+<input type="hidden" class="provName" value="MICRO GAMING">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoMGDplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កាស៊ីណូ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="YB" data-provcat="CASINO">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/CASINO/provider_YB.png?v=20241004051741">
+<input type="hidden" class="provName" value="YEEBET">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoYBPlay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កាស៊ីណូ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="KING855S" data-provcat="CASINO">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/CASINO/provider_KING855S.png?v=20241004051741">
+<input type="hidden" class="provName" value="KING855">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoKING855Splay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កាស៊ីណូ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="WMCDS" data-provcat="CASINO">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/CASINO/provider_WMCDS.png?v=20241004051741">
+<input type="hidden" class="provName" value="WM CASINO">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoWMCDSplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កាស៊ីណូ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="AGDS" data-provcat="CASINO">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/CASINO/provider_AGDS.png?v=20241004051741">
+<input type="hidden" class="provName" value="ASIA GAMINGS">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoAGDSplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កាស៊ីណូ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="EVODO" data-provcat="CASINO">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/CASINO/provider_EVODO.png?v=20241004051741">
+<input type="hidden" class="provName" value="EVOLUTION">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoEVODOplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កាស៊ីណូ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="SV388" data-provcat="COCKFIGHT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/COCKFIGHT/provider_SV388.png?v=20241004051741">
+<input type="hidden" class="provName" value="SV388">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="casinoSV388play">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ជល់មាន់">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="SBOD" data-provcat="ESPORT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/ESPORT/provider_SBOD.png?v=20241004051741">
+<input type="hidden" class="provName" value="SBOBET">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="esportSBOplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="eSport">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="CMD368" data-provcat="ESPORT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/ESPORT/provider_CMD368.png?v=20241004051741">
+<input type="hidden" class="provName" value="CMD368">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="esportCMD368play">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="eSport">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="IBCD" data-provcat="ESPORT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/ESPORT/provider_IBCD.png?v=20241004051741">
+<input type="hidden" class="provName" value="IBCBET">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="esportIBCDplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="eSport">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="JK" data-provcat="FISHING">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/FISHING/provider_JK.png?v=20241004051741">
+<input type="hidden" class="provName" value="JOKER">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="JKfishing">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ហ្គេមFishing">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="JILIS" data-provcat="FISHING">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/FISHING/provider_JILIS.png?v=20241004051741">
+<input type="hidden" class="provName" value="JILI GAMING">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotJILISplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ហ្គេមFishing">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="HB" data-provcat="HORSEBOOK">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/HORSEBOOK/provider_HB.png?v=20241004051741">
+<input type="hidden" class="provName" value="HORSEBOOK">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="HBplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="សេះ">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="C93" data-provcat="LOTTERY">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/LOTTERY/provider_ATOM.png?v=20241004051741">
+<input type="hidden" class="provName" value="ATOM">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="lotteryATOMplay">
+<input type="hidden" class="subCode" value="ATOM">
+<input type="hidden" class="catName" value="ឆ្នោត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="C93" data-provcat="LOTTERY">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/LOTTERY/provider_KENO.png?v=20241004051741">
+<input type="hidden" class="provName" value="KENO">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="lotteryKENOplay">
+<input type="hidden" class="subCode" value="KENO">
+<input type="hidden" class="catName" value="ឆ្នោត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="C93" data-provcat="LOTTERY">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/LOTTERY/provider_RNGWAR.png?v=20241004051741">
+<input type="hidden" class="provName" value="RNGWAR">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="lotteryRNGWARplay">
+<input type="hidden" class="subCode" value="RNGWAR">
+<input type="hidden" class="catName" value="ឆ្នោត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="PGS" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_PGS.png?v=20241004051741">
+<input type="hidden" class="provName" value="PGSOFT">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotPGSplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="MARIOS" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_MARIOS.png?v=20241004051741">
+<input type="hidden" class="provName" value="MARIO CLUB">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotMARIOSplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="BPOT_UNI" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_BPOT_UNI.png?v=20241004051741">
+<input type="hidden" class="provName" value="BIGPOT GAMING">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotBPOT_UNIplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="MASCOT" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_MASCOT.png?v=20241004051741">
+<input type="hidden" class="provName" value="MASCOT GAMING">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/MASCOT">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="SPRIBE" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_SPRIBE.png?v=20241004051741">
+<input type="hidden" class="provName" value="SPRIBE">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/SPRIBE">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="EDP" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_EDP.png?v=20241004051741">
+<input type="hidden" class="provName" value="ENDORPHINA SLOTS">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/EDP">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="ACEWINS" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_ACEWINS.png?v=20241004051741">
+<input type="hidden" class="provName" value="ACEWIN">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/ACEWINS">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="KAGAMING" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_KAGAMING.png?v=20241004051741">
+<input type="hidden" class="provName" value="KA GAMING">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotKAGAMINGplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="MGD" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_MGD.png?v=20241004051741">
+<input type="hidden" class="provName" value="MICRO GAMING">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/MGD">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="JK" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_JK.png?v=20241004051741">
+<input type="hidden" class="provName" value="JOKER">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/joker">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="XE" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_XE.png?v=20241004051741">
+<input type="hidden" class="provName" value="XE88">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/XE88">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="MEGA" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_MEGA.png?v=20241004051741">
+<input type="hidden" class="provName" value="MEGA888">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/Mega888">
+<input type="hidden" class="subCode" value="usrpswd">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="true">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="HBRD" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_HBRD.png?v=20241004051741">
+<input type="hidden" class="provName" value="HABANERO">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/HBRD">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="JDB" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_JDB.png?v=20241004051741">
+<input type="hidden" class="provName" value="JDB">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/jdb">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="KMS" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_KMS.png?v=20241004051741">
+<input type="hidden" class="provName" value="KINGMAKER">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="KMSplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="DS" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_DS.png?v=20241004051741">
+<input type="hidden" class="provName" value="DRAGOON SOFT">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotDSplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="WMGS" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_WMGS.png?v=20241004051741">
+<input type="hidden" class="provName" value="WORLD MATCH">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/WMGS">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="LIVE22S" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_LIVE22S.png?v=20241004051741">
+<input type="hidden" class="provName" value="LIVE22S">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotLIVE22SPlay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="PNG" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_PNG.png?v=20241004051741">
+<input type="hidden" class="provName" value="PLAY N GO">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/PNG">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="BOGS" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_BOGS.png?v=20241004051741">
+<input type="hidden" class="provName" value="BNG">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotBOGSplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="JILIS" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_JILIS.png?v=20241004051741">
+<input type="hidden" class="provName" value="JILI GAMING">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotJILISplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="LMONACO_UNI" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_LMONACO_UNI.png?v=20241004051741">
+<input type="hidden" class="provName" value="LUCKY MONACO">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/LMONACO_UNI">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="KINGH5" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_KINGH5.png?v=20241004051741">
+<input type="hidden" class="provName" value="888KING H5">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotKINGH5play">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="SPS" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_SPS.png?v=20241004051741">
+<input type="hidden" class="provName" value="SIMPLE PLAY">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/SPS">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="NEXTSPIN" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_NEXTSPIN.png?v=20241004051741">
+<input type="hidden" class="provName" value="NEXTSPIN">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="slotNEXTSPINplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="PPDSO" data-provcat="SLOT">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SLOT/provider_PPDSO.png?v=20241004051741">
+<input type="hidden" class="provName" value="PRAGMATIC SLOT">
+<input type="hidden" class="launchType" value="link">
+<input type="hidden" class="launchValue" value="/slots/PPDSO">
+<input type="hidden" class="subCode" value="list">
+<input type="hidden" class="catName" value="ស្លុត">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="SBOD" data-provcat="SPORTS">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SPORTS/provider_SBOD.png?v=20241004051741">
+<input type="hidden" class="provName" value="SBOBET">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="SBOplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កីឡា">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="CMD368" data-provcat="SPORTS">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SPORTS/provider_CMD368.png?v=20241004051741">
+<input type="hidden" class="provName" value="CMD368">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="CMD368play">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កីឡា">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="IBCD" data-provcat="SPORTS">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SPORTS/provider_IBCD.png?v=20241004051741">
+<input type="hidden" class="provName" value="IBCBET">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="IBCDplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កីឡា">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+<div class="prov-" data-provcode="OBET" data-provcat="SPORTS">
+<input type="hidden" class="providerImage" value="https://img.capalangresource.com/images/public/cpwl/companyProvider/LKO888_USD/SPORTS/provider_OBET.png?v=20241004051741">
+<input type="hidden" class="provName" value="OBET SPORTS">
+<input type="hidden" class="launchType" value="function">
+<input type="hidden" class="launchValue" value="OBETplay">
+<input type="hidden" class="subCode" value="-">
+<input type="hidden" class="catName" value="កីឡា">
+<input type="hidden" class="isUsrPswd" value="false">
+<input type="hidden" class="isMaintenance" value="false">
+<input type="hidden" class="isDemo" value="false">
+</div>
+</div>
